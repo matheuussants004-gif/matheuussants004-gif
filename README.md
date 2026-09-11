@@ -5,7 +5,7 @@
 
   <br/>
 
-  [![Discord](https://img.shields.io/badge/Discord-Bate-papo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_CONVITE)
+  [![Discord](https://img.shields.io/badge/Discord-Planejamento-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_CONVITE)
 
 </div>
 
