@@ -105,25 +105,6 @@
     </td>
   </tr>
   <tr>
-    <!-- MundoCart -->
-    <td width="50%" valign="top">
-      <h3>💎 MundoCart</h3>
-      <p>Compras dentro do jogo com PIX, QR Code em mapas e entrega automática após a confirmação.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PIX-00B494?style=flat-square&logo=pix&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-00ACC1?style=flat-square" />
-        <img src="https://img.shields.io/badge/QR_Code-37474F?style=flat-square" />
-      </p>
-    </td>
-    <!-- Próximos projetos -->
-    <td width="50%" valign="top">
-      <h3>📦 Próximos projetos</h3>
-      <p>Novos sistemas integrados ao MundoCore para economia, utilidades e experiências multi-servidor.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Planejamento-EAB308?style=flat-square" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
