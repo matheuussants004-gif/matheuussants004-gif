@@ -72,12 +72,11 @@
     </td>
     <!-- MundoLobby -->
     <td width="50%" valign="top">
-      <h3>🧭 MundoLobby</h3>
-      <p>Sistema de lobby com menus, seletor de servidores, tablist, itens interativos e preferências persistentes.</p>
+      <h3>👁️‍🗨️ VoyagerAC</h3>
+      <p>AntiCheat/AntiMod com detecte rígido em Fly, Hitbox, Reach e com detecte no Meteor, Wurst e mods a parte.</p>
       <p>
-        <img src="https://img.shields.io/badge/Paper_API-ECEFF1?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Velocity-4338CA?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/GUI-00B4D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java_21-F89820?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
   </tr>
