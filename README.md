@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=55FF55&center=true&vCenter=true&width=550&lines=%3E+%2Fwhois+Matheus;%3E+Rank%3A+%5BDEV%5D;%3E+Java+21+%2B+Kotlin+%2B+Folia;%3E+Craftando+sistemas+ass%C3%ADncronos" alt="Console Log" />
   </a>
 
-  <p>
-    <code>[CONSOLE] ✔ Plugin 'Matheus' carregado com sucesso no servidor! (v1.21-STABLE)</code>
   </p>
 
   <!-- Botões de Ação estilo Servidor -->
