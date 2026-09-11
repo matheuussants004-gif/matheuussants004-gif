@@ -9,7 +9,7 @@
 
   <!-- Botões de Ação estilo Servidor -->
   <a href="https://discord.gg/shu5XcGygu">
-    <img src="https://img.shields.io/badge/DISCORD-%2Fmsg_segundacontattk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/DISCORD-grupo_discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/SERVER_STATUS-ONLINE-55FF55?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/COMMISSIONS-ABERTAS-FFAA00?style=for-the-badge" />
