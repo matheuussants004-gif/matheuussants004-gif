@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner de Cabeçalho (Substitua ou use o Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=107C41&height=220&section=header&text=Olá,%20sou%20o%20SEU_NOME%20👋&fontSize=42&fontColor=ffffff&desc=Minecraft%20Plugin%20Developer%20|%20Java%20&%20Kotlin&descSize=20&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=107C41&height=220&section=header&text=Olá,%20sou%20o%20Matheus%20👋&fontSize=42&fontColor=ffffff&desc=Minecraft%20Plugin%20Developer%20|%20Java%20&%20Kotlin&descSize=20&descAlignY=68" width="100%"/>
 
   <br/>
 
