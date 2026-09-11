@@ -16,7 +16,7 @@
 - 🎮 Desenvolvedor focado em **Minecraft Server Software & Plugins** de alta performance.
 - ⚡ Experiência em arquitetura de plugins para servidores de grande porte (sistemas assíncronos, eventos e NMS).
 - 🧩 Especializado em: **Minigames**, **Sistemas de Economia**, **Anti-cheats/Hooks** e **Otimização de TPS/MSPT**.
-- 💬 Me chame no Discord: `@seu_discord`
+- 💬 Me chame no Discord: `@segundacontattk`
 
 ---
 
