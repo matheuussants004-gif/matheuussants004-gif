@@ -113,6 +113,6 @@ Minhas Contribuições
 ---
 
 <div align="center">
-  <sub>Desenvolvido por <b>Matheus</b> | Contato via Discord para orÃ§amentos e parcerias</sub>
+  <sub>Desenvolvido por <b>Matheus</b> | Contato via Discord para orçamentos e parcerias</sub>
 </div>
 
