@@ -1,11 +1,14 @@
 <div align="center">
 
-  <!-- Banner de Cabeçalho (Substitua ou use o Capsule Render) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=107C41&height=220&section=header&text=Olá,%20sou%20o%20Matheus%20&fontSize=42&fontColor=ffffff&desc=Minecraft%20Plugin%20Developer%20|%20Java%20&%20Kotlin&descSize=20&descAlignY=68" width="100%"/>
+  <!-- Banner de Cabeçalho -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=107C41&height=220&section=header&text=Olá,%20sou%20o%20Matheus%20👋&fontSize=42&fontColor=ffffff&desc=Minecraft%20Plugin%20Developer%20|%20Java%20&%20Kotlin&descSize=20&descAlignY=68" width="100%"/>
 
   <br/>
 
-  [![Discord](https://img.shields.io/badge/Discord-Planejamento-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shu5XcGygu)
+  <!-- Discord -->
+  <a href="https://discord.gg/shu5XcGygu">
+    <img src="https://img.shields.io/badge/Discord-Planejamento-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 
 </div>
 
@@ -24,7 +27,7 @@
 
 #### ☕ Linguagens & Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Java%20-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
@@ -54,13 +57,74 @@
 
 ---
 
-### 📦 Principais Projetos / Plugins
+### 🧩 Projetos Mundo
 
-| Plugin | Descrição | Versões | Download / Repositório |
-| :--- | :--- | :--- | :--- |
-| **Plugin-Exemplo-1** | Sistema completo de Economia com suporte a MySQL e Redis cross-server. | `1.16 - 1.21+` | [![GitHub](https://img.shields.io/badge/Repo-181717?logo=github)](https://github.com/SEU_USER/projeto) |
-| **Plugin-Exemplo-2** | Minigame autônomo com arenas dinâmicas e suporte a Folia. | `1.20.4+` | [![Spigot](https://img.shields.io/badge/SpigotMC-ED8106)](https://spigotmc.org) |
-| **Plugin-Exemplo-3** | Utilitário de moderação com histórico em tempo real e Webhook Discord. | `1.8 - 1.21+` | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C)](https://modrinth.com) |
+<table>
+  <tr>
+    <!-- MundoCore -->
+    <td width="50%" valign="top">
+      <h3>🌐 MundoCore</h3>
+      <p>Núcleo responsável pelo banco de dados e pelos serviços compartilhados entre todos os plugins da network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-F89820?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arquitetura-Modular-E65100?style=flat-square" />
+      </p>
+    </td>
+    <!-- MundoLobby -->
+    <td width="50%" valign="top">
+      <h3>🧭 MundoLobby</h3>
+      <p>Sistema de lobby com menus, seletor de servidores, tablist, itens interativos e preferências persistentes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Paper_API-ECEFF1?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Velocity-4338CA?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/GUI-00B4D8?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- MundoClans -->
+    <td width="50%" valign="top">
+      <h3>🛡️ MundoClans</h3>
+      <p>Clans multi-servidor com membros, cargos, convites, alianças e informações compartilhadas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Multi--server-1D4ED8?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Em_desenvolvimento-EA580C?style=flat-square" />
+      </p>
+    </td>
+    <!-- MundoNetworkUTILS -->
+    <td width="50%" valign="top">
+      <h3>⚒️ MundoNetworkUTILS</h3>
+      <p>Utilitários administrativos e sistema de punições globais para toda a network.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Paper_+_Velocity-6D28D9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Punições-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/Network-EA580C?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- MundoCart -->
+    <td width="50%" valign="top">
+      <h3>💎 MundoCart</h3>
+      <p>Compras dentro do jogo com PIX, QR Code em mapas e entrega automática após a confirmação.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PIX-00B494?style=flat-square&logo=pix&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-00ACC1?style=flat-square" />
+        <img src="https://img.shields.io/badge/QR_Code-37474F?style=flat-square" />
+      </p>
+    </td>
+    <!-- Próximos projetos -->
+    <td width="50%" valign="top">
+      <h3>📦 Próximos projetos</h3>
+      <p>Novos sistemas integrados ao MundoCore para economia, utilidades e experiências multi-servidor.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Planejamento-EAB308?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
