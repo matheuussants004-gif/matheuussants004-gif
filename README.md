@@ -80,5 +80,5 @@
 <br/>
 
 <div align="center">
-  <sub>Desenvolvido com ☕ e Redstone por <b>SEU_NOME</b></sub>
+  <sub>Desenvolvido com ☕ e Redstone por <b>Matheus</b></sub>
 </div>
