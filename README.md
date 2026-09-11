@@ -77,7 +77,7 @@ Discord: "@segundacontattk"
       <p><i>"Ecossistema completo inspirado nas mecânicas hardcore do DonutSMP."</i></p>
       <ul>
         <li><b>Lore:</b> Lifesteal avançado, leilões, bounty de jogadores e combate dinâmico.</li>
-        <li><b>Encantamentos:</b> <code>Paper 1.20+</code> • <code>HikariCP</code> • <code>Alta Performance</code></li>
+        <li><b>Lógicas:</b> <code>Paper 1.20+</code> • <code>HikariCP</code> • <code>Alta Performance</code></li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Raridade-Lendário-FFAA00?style=flat-square" />
@@ -91,7 +91,7 @@ Discord: "@segundacontattk"
       <p><i>"Defesa absoluta contra modificações ilegais e clientes hackeados."</i></p>
       <ul>
         <li><b>Lore:</b> Heurística em tempo real, checks rígidos de Fly, Reach e Hitbox, com detecção nos clientes Meteor e Wurst.</li>
-        <li><b>Encantamentos:</b> <code>PacketEvents</code> • <code>Predictive Checks</code> • <code>Zero TPS Lag</code></li>
+        <li><b>Lógicas:</b> <code>PacketEvents</code> • <code>Predictive Checks</code> • <code>Zero TPS Lag</code></li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Raridade-Místico-AA00AA?style=flat-square" />
@@ -107,7 +107,7 @@ Discord: "@segundacontattk"
       <p><i>"Mecanismo financeiro para enriquecer a economia do servidor."</i></p>
       <ul>
         <li><b>Lore:</b> Ações, juros dinâmicos, inflação configurável e dividendos gerados com base na liquidez da network.</li>
-        <li><b>Encantamentos:</b> <code>Multi-Server Sync</code> • <code>Transações Seguras</code> • <code>MySQL</code></li>
+        <li><b>Lógicas:</b> <code>Multi-Server Sync</code> • <code>Transações Seguras</code> • <code>MySQL</code></li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Raridade-Raro-55FF55?style=flat-square" />
@@ -121,7 +121,7 @@ Discord: "@segundacontattk"
       <p><i>"O coração e a porta de entrada de qualquer grande rede."</i></p>
       <ul>
         <li><b>Lore:</b> Menus interativos (GUI), seletor de lobbies, scoreboard assíncrona, tablist animada e proteção total.</li>
-        <li><b>Encantamentos:</b> <code>PaperMC</code> • <code>Velocity Proxy</code> • <code>Adventure API</code></li>
+        <li><b>Lógicas:</b> <code>PaperMC</code> • <code>Velocity Proxy</code> • <code>Adventure API</code></li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Raridade-Incomum-55FFFF?style=flat-square" />
