@@ -63,12 +63,11 @@
   <tr>
     <!-- MundoCore -->
     <td width="50%" valign="top">
-      <h3>🌐 MundoCore</h3>
-      <p>Núcleo responsável pelo banco de dados e pelos serviços compartilhados entre todos os plugins da network.</p>
+      <h3>SMP CORE</h3>
+      <p>Plugin inspirado em um dos maiores servidores DonutSMP em um só.</p>
       <p>
         <img src="https://img.shields.io/badge/Java_21-F89820?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arquitetura-Modular-E65100?style=flat-square" />
       </p>
     </td>
     <!-- MundoLobby -->
