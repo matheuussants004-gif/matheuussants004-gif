@@ -5,11 +5,6 @@
 
   <br/>
 
-  <!-- Links rápidos / Plataformas -->
-  [![SpigotMC](https://img.shields.io/badge/SpigotMC-Perfil-E48900?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/members/SEU_USER/)
-  [![Modrinth](https://img.shields.io/badge/Modrinth-Perfil-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/SEU_USER)
-  [![CurseForge](https://img.shields.io/badge/CurseForge-Plugins-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/SEU_USER)
-  [![BuiltByBit](https://img.shields.io/badge/BuiltByBit-Mercado-1A1A1A?style=for-the-badge&logo=minecraft&logoColor=emerald)](https://builtbybit.com)
   [![Discord](https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_CONVITE)
 
 </div>
