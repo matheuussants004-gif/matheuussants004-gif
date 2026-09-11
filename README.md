@@ -1,5 +1,3 @@
-# MatheusAS
-
 <div align="center">
 
   <!-- Banner de Cabeçalho (Substitua ou use o Capsule Render) -->
